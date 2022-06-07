@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Stats Preview Card Component](https://pawel-gnat.github.io/Frontend-Mentor-Huddle-Landing-Page/)
+- Live Site URL: [Stats Preview Card Component](https://pawel-gnat.github.io/Frontend-Mentor-Stats-Preview-Card-Component/)
 
 ## My process
 
@@ -35,7 +35,7 @@ I managed to complete this challenge in 3,5 hours.
 
 ### What I learned
 
-I'm still working on how to use flexbox. I had problems with responsive image. 
+I'm still working on how to use flexbox. I had problems with responsive image.
 
 ## Author
 
